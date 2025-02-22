@@ -1,6 +1,6 @@
 # 📖 WordGenie – Definitions at Your Command
 A sleek **dictionary web app** that provides **instant word definitions, phonetics, examples, and pronunciation** using the **Free Dictionary API**.<br>
-Deployed Link: https://wordgenie-by-jiya.netlify.app/
+Deployed Link: https://wordgenie-jiya.netlify.app/
 
 ---
 
@@ -48,7 +48,7 @@ Here’s how **WordGenie** looks:
 ---
 
 ## 🔗 Live Demo
-Try **WordGenie** here: https://wordgenie-by-jiya.netlify.app/
+Try **WordGenie** here: https://wordgenie-jiya.netlify.app/
 
 ---
 
